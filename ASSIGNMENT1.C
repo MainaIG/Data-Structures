@@ -1,3 +1,6 @@
+//Ian Gachugu
+//SCT222-0136/2023
+
 #include <stdio.h>
 #include <stdlib.h>
 
